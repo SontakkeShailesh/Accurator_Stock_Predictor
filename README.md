@@ -1,3 +1,3 @@
-The Land Registry is a very helpful tool for quickly and safely buying land using blockchain technology without
-the need for government intervention, utilizing digital currencies such as Ethereum.
-• Tools Used: Blockchain, Ethereum, Ganache, Metamask, VsCode
+The Accurator is a one-stop shop for stock market investors. It offers news, stock predictions, a brokerage
+calculator, and an overview of stocks, all of which simplify the job of investors
+• Tools Used: Python, LSTM, fbprophet, VsCode
